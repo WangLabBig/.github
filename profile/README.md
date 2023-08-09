@@ -1,4 +1,4 @@
-<img src="imgs/github-header-image.png" width="1000px">   
+<img src="imgs/github-header-image.png">   
 <h1 align="center">Hi 👋, We are Wang Lab</h1>
 <h3 align="center">A reserach group at Beijing Institute of Genomics, Chinese Academy of Science</h3>
 
